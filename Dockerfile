@@ -1,4 +1,4 @@
-FROM bitwalker/alpine-elixir:1.10.3
+FROM kevinstueber/alpine-elixir:latest
 
 MAINTAINER Paul Schoenfelder <paulschoenfelder@gmail.com>
 
